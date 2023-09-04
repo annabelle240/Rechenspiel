@@ -1,7 +1,6 @@
 Quick preview:
 
-
-![ezgif com-video-to-gif](https://github.com/annabelle240/Rechenspiel/assets/120031172/c261339f-94a5-4097-90ff-eb2b1724fc69)
+![Persönlich – Microsoft_ Edge - Rechenspiel-Adition - Persönlich – Microsoft_ Edge - 4 September 2023 (2)](https://github.com/annabelle240/Rechenspiel/assets/120031172/6c1955a5-2369-4415-bd05-8b771cb6d975)
 
 
 # Getting Started with Create React App
