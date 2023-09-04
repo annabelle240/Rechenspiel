@@ -1,3 +1,9 @@
+Quick preview:
+
+
+![ezgif com-video-to-gif](https://github.com/annabelle240/Rechenspiel/assets/120031172/c261339f-94a5-4097-90ff-eb2b1724fc69)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
